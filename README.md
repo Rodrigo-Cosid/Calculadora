@@ -2,7 +2,7 @@
 
 ## 💻 Project
 
-<p>The calculator is a simple application that performs the operation between two values using C# and winforms.</p>
+<p>Calculator is a simple application that performs operations between two values ​​using C# and Winforms. </p>
 
 ## 🛠 Technologies
 
